@@ -4,8 +4,9 @@
 # About Me ☕️
 
 - 22 yo;
+- 🥋 Black belt in Taekwondo;
 - Coding in Java with Spring Boot;
-- Now trying to find balance between learning programming and philosophy;
+- Now trying to find balance between learning programming and philosophy.
 
 ---
 # How to reach me 🔗
