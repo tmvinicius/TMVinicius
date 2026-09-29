@@ -1,6 +1,5 @@
 ## Hi there 👋
 
----
 # About Me ☕️
 
 - 23 yo;
