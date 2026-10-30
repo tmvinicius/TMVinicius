@@ -22,7 +22,7 @@ Outside of code, I'm a **black belt in Taekwondo** and I try to find balance bet
 
 | Role | Company | Period | Highlights |
 |------|---------|--------|------------|
-| Software Developer Intern | TAGNA Tecnologia | Sep 2026 – Present | Python scripts for data collection, cleaning and reconciliation, plus statistical and Machine Learning models for anomaly detection and analyte prediction, in a SaaS used by large mining companies. |
+| Software Developer Intern | TAGNA Tecnologia | Sep 2026 – Present | Python scripts for data collection, processing, cleaning, and reconciliation, supporting data validation and anomaly detection in a SaaS platform used by major mining companies. |
 | Software Developer Intern | Bradesco | Nov 2025 – Jun 2026 | Full stack development with Java, Spring Boot and Angular, observability with Dynatrace, and an AI agent built in Copilot Studio that reads Dynatrace dashboards and generates SLI/SLA reports for the team's dailies. |
 
 ## Featured Projects
